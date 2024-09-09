@@ -1,0 +1,22 @@
+[
+   
+  {
+    "contactbackgroundimg": "https://i.ibb.co/W6w02X0/Kiosk-And-Security-Lockerfront.webp",
+    "contactimg1": "https://i.ibb.co/W6w02X0/Kiosk-And-Security-Lockerfront.webp",
+    "contactimg2": "https://i.ibb.co/W6w02X0/Kiosk-And-Security-Lockerfront.webp",
+    "contacticonimg": "https://i.ibb.co/W6w02X0/Kiosk-And-Security-Lockerfront.webp",
+    "contactmaplink":"https://i.ibb.co/W6w02X0/Kiosk-And-Security-Lockerfront.webp",
+    "buttontext":"button text here"
+  
+  },
+  {
+    "placeholder":[
+        {
+            "placeholderone":"your name",
+            "placeholdertwo":"your email",
+            "placeholderthree":"your messages"
+        }
+    ]
+   }
+   
+]

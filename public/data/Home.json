@@ -1,0 +1,323 @@
+[
+  {
+    "heroSectionData": [
+      {
+        "heroSectionServiceText": [
+          "Innovate with Cutting-Edge Software Solutions.",
+          "Smart Solutions: Hardware Making Technology Work Smarter.",
+          "Simplified Living: Crafting Tomorrow's Solutions with IoT.",
+          "Resilient Cybersecurity Solutions for Modern Challenges.",
+          "Precision Redefined: Unleashing Robotic Possibilities.",
+          "Crafting Tailored Success in Professional Services.",
+          "Elevating Trust through Website Security."
+        ]
+      },
+      {
+        "thumbnailWord": [
+          {
+            "thumbnailFirstWord": "W",
+            "otherWord": "e upgrade trust & system."
+          }
+        ]
+      },
+      {
+        "OurServicesHome": [
+          {
+            "id": 1,
+            "OurServicesHomeText": "Software Solution",
+            "OurServicesHomeImg": "https://i.ibb.co/6g39tjt/software-solution.png"
+          },
+          {
+            "id": 2,
+            "OurServicesHomeText": "Hardware Solution",
+            "OurServicesHomeImg": "https://i.ibb.co/X7pHMmQ/hardware-solution.png"
+          },
+          {
+            "id": 3,
+            "OurServicesHomeText": "IOT Solution",
+            "OurServicesHomeImg": "https://i.ibb.co/SQKmPyN/Io-T-solution.png"
+          },
+          {
+            "id": 4,
+            "OurServicesHomeText": "Cyber Security Solution",
+            "OurServicesHomeImg": "https://i.ibb.co/qrM64Db/cyber-security-solution.png"
+          },
+          {
+            "id": 5,
+            "OurServicesHomeText": "Robotic Solution",
+            "OurServicesHomeImg": "https://i.ibb.co/89G2wBb/Robotics-solution.png"
+          },
+          {
+            "id": 6,
+            "OurServicesHomeText": "Professional Services",
+            "OurServicesHomeImg": "https://i.ibb.co/Hnc4NmG/professional-solution-new.png"
+          },
+          {
+            "id": 7,
+            "OurServicesHomeText": "Website Security",
+            "OurServicesHomeImg": "https://i.ibb.co/1z02QRJ/website-security.png"
+          }
+        ]
+      },
+      {
+        "heroSectionRightImg": "https://i.ibb.co/fxD4Kw3/hero-Section-Home.gif"
+      }
+    ]
+  },
+  {
+    "OurServiceHomeData": [
+      {
+        "contentSectionText": "Our Service",
+        "thumbnailText": "Providing solution"
+      },
+      {
+        "ServicesCardHomeData": [
+          {
+            "id": 1,
+            "FrontImg": "https://i.ibb.co/KjQccqn/application-development-Front.jpg",
+            "BackImg": "https://i.ibb.co/KrwF9Bz/Application-Development.png",
+            "CardServiceText": "Application Development"
+          },
+          {
+            "id": 2,
+            "FrontImg": "https://i.ibb.co/M1KKWPZ/business-front.jpg",
+            "BackImg": "https://i.ibb.co/r3hy8Yz/business-back.png",
+            "CardServiceText": "Business Identification"
+          },
+          {
+            "id": 3,
+            "FrontImg": "https://i.ibb.co/KGkkcNY/cyber-security-front.webp",
+            "BackImg": "https://i.ibb.co/sQG9Xs2/cyber-security-back.png",
+            "CardServiceText": "Cyber Security"
+          },
+          {
+            "id": 4,
+            "FrontImg": "https://i.ibb.co/6thMCS7/IOT-and-Robotics-Solutionfront.jpg",
+            "BackImg": "https://i.ibb.co/tzssQYJ/IOT-and-Robotics-Solution.png",
+            "CardServiceText": "IOT and Robotics Solution"
+          },
+          {
+            "id": 5,
+            "FrontImg": "https://i.ibb.co/4NgQLqQ/digital-display-Front.webp",
+            "BackImg": "https://i.ibb.co/Msvc5fn/Digital-Display.png",
+            "CardServiceText": "Digital Display"
+          },
+          {
+            "id": 6,
+            "FrontImg": "https://i.ibb.co/xDrHCD4/CCTV-And-Attendencefront.webp",
+            "BackImg": "https://i.ibb.co/q0S7kPc/cctv-maintenance.png",
+            "CardServiceText": "CCTV And Attendance"
+          },
+          {
+            "id": 7,
+            "FrontImg": "https://i.ibb.co/W6w02X0/Kiosk-And-Security-Lockerfront.webp",
+            "BackImg": "https://i.ibb.co/nC0JNJb/Kiosk-And-Security-Lockerfront-new.png",
+            "CardServiceText": "Kiosk And Security Locker"
+          },
+          {
+            "id": 8,
+            "FrontImg": "https://i.ibb.co/Mk6HcTP/network-front.webp",
+            "BackImg": "https://i.ibb.co/1Zqb43Y/network-solution-back.png",
+            "CardServiceText": "Network Solution"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "AboutUsHomeData": [
+      {
+        "contentSectionText": "About Us",
+        "thumbnailText": "Innovating Tomorrow: Explore the Story of Face of Art Technologies.",
+        "titlesText": "Revolutionize with Best Customized IT Solutions.",
+        "detailsText": "Experience the Impact of Our Customized IT Solutions, as we Navigate the Ever-evolving Landscape of Technology with a Commitment to Excellence.",
+        "AboutUsHomeListPoint": [
+          {
+            "id": 1,
+            "AboutUsHomeListPointText": "Innovating, Setting New Standards in Technology."
+          },
+          {
+            "id": 2,
+            "AboutUsHomeListPointText": "Your Needs, Our Focus: Tailored Solutions, Enduring Partnerships."
+          },
+          {
+            "id": 3,
+            "AboutUsHomeListPointText": "Dynamic Team, Innovation-Driven Excellence for a Tech-Focused Future."
+          }
+        ],
+        "ButtonsText": "About Us",
+        "leftPartImg": "https://i.ibb.co/1fgYv18/about-Us-Home.gif"
+      }
+    ]
+  },
+  {
+    "FaceHomeData": [
+      {
+        "contentSectionFaceHomeText": "Face",
+        "thumbnailFaceHomeText": "Elevate with Us: Discover the Difference",
+        "titlesFaceHomeText": "Boost Your Journey: Unmatched Excellence with Face of Art",
+        "detailsFaceHomeText": "Discover the Face of Art advantage: Tailored solutions, innovation expertise, and enduring partnerships for your digital journey.",
+        "ButtonsFaceHomeText": "More",
+        "CardOneFaceHome": [
+          {
+            "CardOneNumber": 14,
+            "CardOneText": "Years Of Experience"
+          }
+        ],
+        "CardTwoFaceHome": [
+          {
+            "CardOneNumber": 25,
+            "CardOneText": "Team Members"
+          }
+        ],
+        "CardThreeFaceHome": [
+          {
+            "CardOneNumber": 1000,
+            "CardOneText": "Happy Clients"
+          }
+        ],
+        "CardForthFaceHome": [
+          {
+            "CardOneNumber": 100,
+            "CardOneText": "Awards"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "WhyChoseUSData": [
+      {
+        "WhyChoseUSleftImgData": "",
+        "contentSectionWhyChoseUSText": "Why Chose",
+        "thumbnailWhyChoseUSText": "Choose Excellence: Uncover the Face of Art Technologies Difference",
+        "titlesWhyChoseUSText": "Elevate Your Journey: Unmatched Excellence with Face of Art",
+        "detailsWhyChoseUSText": "Discover the Face of Art advantage: Tailored solutions, innovation expertise, and enduring partnerships for your digital journey",
+        "CardWhyChoseUS": [
+          {
+            "id": 1,
+            "CardWhyChoseUSImg": "https://i.ibb.co/6g39tjt/software-solution.png",
+            "CardWhyChoseUSHeadingText": "Software Solution",
+            "CardWhyChoseUSParaText": "Empowering businesses with streamlined and efficient software solutions."
+          },
+          {
+            "id": 2,
+            "CardWhyChoseUSImg": "https://i.ibb.co/X7pHMmQ/hardware-solution.png",
+            "CardWhyChoseUSHeadingText": "Hardware Solution",
+            "CardWhyChoseUSParaText": "Optimizing operations with robust and tailored hardware solutions."
+          },
+          {
+            "id": 3,
+            "CardWhyChoseUSImg": "https://i.ibb.co/qrM64Db/cyber-security-solution.png",
+            "CardWhyChoseUSHeadingText": "Cyber Security Solution",
+            "CardWhyChoseUSParaText": "Fortifying digital defenses with advanced cybersecurity solutions."
+          },
+          {
+            "id": 4,
+            "CardWhyChoseUSImg": "https://i.ibb.co/89G2wBb/Robotics-solution.png",
+            "CardWhyChoseUSHeadingText": "Robotic Solution",
+            "CardWhyChoseUSParaText": "Revolutionizing industries with cutting-edge and efficient robotic solutions."
+          }
+        ],
+        "WhyChoseUSButtonsText": "More"
+      }
+    ]
+  },
+  {
+    "TestimonialData": [
+      {
+        "TestimonialContentSectionText": "Testimonial",
+        "TestimonialThumbnailText": "People's say about us",
+        "TestimonialLeftImg": "",
+        "TestimonialCarousel": [
+          {
+            "id": 1,
+            "review": "Face of Art  to develop the team that suits the industry most. It is passionate IT Professional. It tries give client, they always dream. Its always cares about client need, demand & satisfaction. Face of Art worked as Senior Software Engineer. His dream being a part of Crystal IT to contribute ICT industry in Bangladesh and Provide Information Technology from City to rural Area, make people familiar with Information technology and gain maximum benefit & enlarge their activities.",
+            "img": "https://i.ibb.co/MPpJzj4/tesimonial1.png",
+            "name": "GrameenPhone",
+            "designation": "GrameenPhone"
+          },
+          {
+            "id": 2,
+            "review": "Face of Art Technologies Ltd today is a name not only known in the Software world, it is today a synonym of quality information technology and few more. All these were possible due to his innovative ideas, tireless efforts, perseverance and dedication with self confidence which contributed to his successful achievements. Now the name 'Face of Art Technologies' inspires trust. Under his dynamic leadership, Face of Art Technologies is set to continue its progress globally.",
+            "img": "https://i.ibb.co/mN1Jmtx/testimonial2.png",
+            "name": "Prime Minister’s Office",
+            "designation": "Prime Minister’s Office"
+          },
+          {
+            "id": 3,
+            "review": "Face of Art Technologies Ltd team was very professional, organized, skilled and creative and contributed greatly to the design and evolution of the solution. We are very happy with the results!",
+            "img": "https://i.ibb.co/7Kkgh2S/testimonial3.png",
+            "name": "Dhaka University",
+            "designation": "Dhaka University"
+          },
+          {
+            "id": 4,
+            "review": "Face inventory & HRM has revolutionised our Company HR interactions and how we manage and view our Talents information. It's a simple to use and highly customisable tool that has added tremendous value to our organization.",
+            "img": "https://i.ibb.co/HBHm0Kk/tesimonial4.png",
+            "name": "বিএসটিআই",
+            "designation": "বিএসটিআই"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "GetInTouchData": [
+      {
+        "GetInTouchContentSectionText": "Get In Touch",
+        "GetInTouchThumbnailText": "Connect with Us: Let's Shape the Future Together",
+        "GetInTouchDetails": "Discover the possibilities of seamless collaboration. Whether you have a project in mind, questions about our services, or just want to say hello — we're here. Let's start a conversation.",
+        "ContactInfoCard": [
+          {
+            "id": 1,
+            "ContactInfoCardImg": "https://i.ibb.co/HthL05D/mail.png",
+            "ContactInfoCardTitles": "Mail us 24/7:",
+            "ContactInfoCardDetails": "info@fnabd.biz"
+          },
+          {
+            "id": 2,
+            "ContactInfoCardImg": "https://i.ibb.co/zhvJfsV/Contact-us.png",
+            "ContactInfoCardTitles": "For Urgent help:",
+            "ContactInfoCardDetails": "+880 1712-622555"
+          }
+        ],
+        "firstInputTitleText": "Your Name",
+        "firstInputPlaceholderText": "Name Here...",
+        "secondInputTitleText": "Your Email",
+        "secondInputPlaceholderText": "Email Here...",
+        "thirdInputTitleText": "Messages",
+        "thirdInputPlaceholderText": "messages...",
+        "GetInTouchButtonsText": "Submit"
+      }
+    ]
+  },
+  {
+    "BlogHomeData": [
+      {
+        "BlogHomeContentSectionText": "latest posts",
+        "BlogHomeThumbnailText": "our latest blog posts",
+        "BlogHomeCard": [
+          {
+            "id": 1,
+            "BlogHomeCardImg": "https://i.ibb.co/W6w02X0/Kiosk-And-Security-Lockerfront.webp",
+            "BlogHomeCardHeading": "Toll Management System",
+            "BlogHomeCardDetails": "Face of Art Technologies TMS minimizes fraud by recording every toll transaction and incident in each lane, optimizes traffic flow with fast vehicle processing speed, provides better management with advanced reports on traffic, toll income, personal activities, maintenance required, and maintenance performed. The 24x7, user-friendly operational system works with latest technology and modular design. It also takes minimum time to repair with on-site and call center assistance provided."
+          },
+          {
+            "id": 2,
+            "BlogHomeCardImg": "https://i.ibb.co/KGkkcNY/cyber-security-front.webp",
+            "BlogHomeCardHeading": "Cyber Security Services",
+            "BlogHomeCardDetails": "We Face of Art Technologies Are Glad To Announce That we have started Providing Cyber Security Services to Our Global Clients 1 Website Security Audit: Comprehensive of a website's security vulnerabilities and recommendations for improvement.2 Penetration Testing: Controlled simulated cyber-attacks on a website to identify potential weaknesses and vulnerabilities.3 Web Application Firewall (WAF) Setup: Configuring and implementing a WAF to protect against common web-based attacks, such as SQL injection and cross-site scripting (XSS).4 Malware Detection and Removal: Scanning websites for malware infections and removing any malicious code or scripts."
+          },
+          {
+            "id": 3,
+            "BlogHomeCardImg": "https://i.ibb.co/ThL7DF2/ezgif-com-gif-maker-6.webp",
+            "BlogHomeCardHeading": "Surveillance System (CCTV)",
+            "BlogHomeCardDetails": "Different types of incident are occurring in at home, office, grocery shop, mall, business places, and other important places. This problem can be solved by CCTV camera connected with the smartphone and monitor.Face of Art Technologies is one of the largest CCTV solution company in Bangladesh. Face of Art Technologies providing various kinds of model & brand of CCTV camera and all accessories of CCTV Camera at a reasonable price. It's also providing others security product & accessories."
+          }
+        ]
+      }
+    ]
+  }
+]

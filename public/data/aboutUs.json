@@ -1,0 +1,298 @@
+[
+  {
+    "content": [
+      {
+        "home": [
+          {
+            "image1": "https://i.pinimg.com/originals/cf/6f/cf/cf6fcf14be2cd01dd4923b36445ca632.gif",
+            "text1": "Welcome to our company",
+            "text2": "Face of Art Technologies provides comprehensive IT services to help businesses thrive in the digital age",
+            "highlightText1": "Customized software development:",
+            "text4": "Face of Art Technologies offers tailored software development solutions to meet the unique needs of businesses, ensuring optimal performance and efficiency.",
+            "text5": "Secure web and app development",
+            "text6": "Trust Face of Art Technologies to develop secure and user-friendly websites and applications, protecting your data and providing a seamless user experience."
+          }
+        ]
+      },
+      {
+        "mission": [
+          {
+            "text1": "Our Mission",
+            "bullet": [
+              "To maintain the leading software solution provider ensuring the benefit of customers, shareholders, and employees",
+              "Developing, disseminating and exploiting the remarkable experience, expertise, and knowledge of all of our people",
+              "Developing a distinctive competence in process development and project management",
+              "This is very nice "
+            ]
+          }
+        ]
+      },
+      {
+        "vision": [
+          {
+            "text1": "Our Vision",
+            "text2": "Powered by innovation, guided by integrity, deliver quality solutions to build The Digital Delta. At Face of Art Technologies, we envision a future where innovation and technology converge seamlessly to create a masterpiece of digital solutions. Our vision is to be the forefront MERN-based IT company, empowering businesses with cutting-edge web applications that not only meet but exceed the expectations of the evolving digital landscape. We aspire to be recognized as the face of artistic ingenuity in technology, crafting solutions that inspire awe and elevate the standards of excellence in the IT industry."
+          }
+        ]
+      },
+      {
+        "value": [
+          {
+            "text1": "Our Value",
+            "text2": "Innovation: We embrace a culture of constant innovation, encouraging our team to push boundaries, explore new possibilities, and bring creative solutions to the table. We believe that through innovation, we can craft unique and groundbreaking MERN-based applications that set our company apart.Excellence: We are committed to delivering excellence in every aspect of our work. From coding to client communication, we strive for perfection. By maintaining high standards of quality, we ensure that our solutions not only meet but exceed the expectations of our clients and the industry."
+          }
+        ]
+      },
+      {
+        "how_we_started": [
+          {
+            "aboutUsTitle": [
+              {
+                "text1": "How We",
+                "text2": "Started"
+              }
+            ]
+          },
+          {
+            "image1": "https://facesoftbd.com/logo/FOALOGO.png",
+            "text1": "At Face of Art Technologies, we began with a visionary mission-to seamlessly blend artistry with technology. Fueled by a collective of passionate tech enthusiasts, artists, and innovators, we aimed to pioneer a new era where every line of code and pixel on the screen narrates a tale of creativity and functionality. Facing challenges as opportunities, our commitment to innovation and user-centric design culminated in the launch of our inaugural product. Today, we stand as a beacon of ingenuity, dedicated to pushing boundaries and transforming technology into an art form. Join us on this remarkable journey where every line of code is a stroke of artistic brilliance, shaping the future we envision."
+          }
+        ]
+      },
+      {
+        "our_timeline": [
+          {
+            "aboutUsTitle": [
+              {
+                "text1": "Our",
+                "text2": "Timeline"
+              }
+            ]
+          },
+          {
+            "image1": "https://atlassianblog.wpengine.com/wp-content/uploads/2022/06/flywheelgrowthlevers.gif"
+          },
+          {
+            "title": [
+              {
+                "id": 0,
+                "year": 2011,
+                "title": "Product Launch",
+                "content": "Successfully introduced our inaugural software product, showcasing a harmonious blend of artistic design and technological innovation.",
+                "image": "https://icon-library.com/images/graphic-designer-icon/graphic-designer-icon-11.jpg"
+              },
+              {
+                "id": 1,
+                "year": 2013,
+                "title": "Industry Recognition",
+                "content": "Received prestigious industry awards and recognition for our software's innovative contributions, affirming our leadership in the tech sector.",
+                "image": "https://icon-library.com/images/graphic-designer-icon/graphic-designer-icon-11.jpg"
+              },
+              {
+                "id": 2,
+                "year": 2014,
+                "title": "User Milestone",
+                "content": "Achieved a significant milestone in user adoption, with our software gaining widespread popularity and positive feedback.",
+                "image": "https://icon-library.com/images/graphic-designer-icon/graphic-designer-icon-11.jpg"
+              },
+              {
+                "id": 3,
+                "year": 2015,
+                "title": "Portfolio Expansion",
+                "content": "Diversified our software offerings, introducing new solutions that exemplify our commitment to cutting-edge and versatile products.",
+                "image": "https://icon-library.com/images/graphic-designer-icon/graphic-designer-icon-11.jpg"
+              },
+              {
+                "id": 4,
+                "year": 2016,
+                "title": "Strategic Partnerships",
+                "content": "Formed strategic partnerships with key industry players, fostering collaboration and enhancing our ability to deliver innovative software solutions.",
+                "image": "https://icon-library.com/images/graphic-designer-icon/graphic-designer-icon-11.jpg"
+              },
+              {
+                "id": 5,
+                "year": 2017,
+                "title": "Global Reach",
+                "content": "Successfully expanded our software's presence internationally, reaching new markets and establishing ourselves as a global player.",
+                "image": "https://icon-library.com/images/graphic-designer-icon/graphic-designer-icon-11.jpg"
+              },
+              {
+                "id": 6,
+                "year": 2018,
+                "title": "Client Satisfaction",
+                "content": "Attained high levels of client satisfaction, evidenced by positive reviews and testimonials, underscoring our dedication to providing exceptional software experiences.",
+                "image": "https://icon-library.com/images/graphic-designer-icon/graphic-designer-icon-11.jpg"
+              },
+              {
+                "id": 7,
+                "year": 2040,
+                "title": "Green Initiatives",
+                "content": "Implemented sustainability initiatives within our software development processes, aligning with eco-friendly practices for a more environmentally conscious approach.",
+                "image": "https://icon-library.com/images/graphic-designer-icon/graphic-designer-icon-11.jpg"
+              },
+              {
+                "id": 8,
+                "year": 2018,
+                "title": "Innovative Integration",
+                "content": "Seamlessly integrated groundbreaking features into our software, pushing the boundaries of technological possibilities and setting new industry standards.",
+                "image": "https://icon-library.com/images/graphic-designer-icon/graphic-designer-icon-11.jpg"
+              },
+              {
+                "id": 9,
+                "year": 2080,
+                "title": "Community Involvement",
+                "content": "Launched a program fostering collaboration, engaging users in software development, and building a vibrant, interactive community around our products.",
+                "image": "https://icon-library.com/images/graphic-designer-icon/graphic-designer-icon-11.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "what_we_delivered": [
+          {
+            "image1": "https://www2.deloitte.com/content/dam/insights/primary/full-bleed/GLOB164990_Banner.png/jcr:content/renditions/cq5dam.web.1200.627.jpeg",
+            "text1": "What We Delivered",
+            "image2": "https://cdni.iconscout.com/illustration/premium/thumb/holographic-technology-4901820-4086981.png?f=webp"
+          },
+          {
+            "title": [
+              {
+                "number": 520,
+                "title": "Happy Clients"
+              },
+              {
+                "number": 722,
+                "title": "Projects Completed"
+              },
+              {
+                "number": 651082,
+                "title": "Likes"
+              },
+              {
+                "number": 178942,
+                "title": "Followers"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "certificates_and_awards": [
+          {
+            "aboutUsTitle": [
+              {
+                "text1": "Certificates and",
+                "text2": "Awards"
+              }
+            ]
+          },
+          {
+            "title": [
+              {
+                "image": "https://cdn-icons-png.flaticon.com/512/440/440790.png",
+                "title": "Best Global Organizer"
+              },
+              {
+                "image": "https://cdn-icons-png.flaticon.com/512/440/440790.png",
+                "title": "Best Global Organizer"
+              },
+              {
+                "image": "https://cdn-icons-png.flaticon.com/512/440/440790.png",
+                "title": "Best Global Organizer"
+              },
+              {
+                "image": "https://cdn-icons-png.flaticon.com/512/440/440790.png",
+                "title": "Best Global Organizer"
+              },
+              {
+                "image": "https://cdn-icons-png.flaticon.com/512/440/440790.png",
+                "title": "Best Global Organizer"
+              },
+              {
+                "image": "https://cdn-icons-png.flaticon.com/512/440/440790.png",
+                "title": "Best Global Organizer"
+              },
+              {
+                "image": "https://cdn-icons-png.flaticon.com/512/440/440790.png",
+                "title": "Best Global Organizer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "meet_our_team": [
+          {
+            "aboutUsTitle": [
+              {
+                "text1": "Meet Our",
+                "text2": "Team"
+              }
+            ]
+          },
+          {
+            "employee_info": [
+              {
+                "image": "https://i.ibb.co/KNzCYpK/potrait-adib2.png",
+                "background_image": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
+                "designation": "Jr Programmer",
+                "employee_name": "Md. Adib Arman Shuvro",
+                "employee_details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum voluptas ullam laboriosam eveniet fugit fugiat illum incidunt, repellendus quas sequi soluta ea? Sit consequuntur facere veritatis illo pariatur, iure adipisci optio, veniam accusantium, quisquam sapiente inventore ducimus cupiditate atque est ipsum deserunt vero ipsam autem. Odio accusamus illo voluptatum ad debitis sed rem voluptates cum quae eius nam exercitationem, consequatur ipsam error. Perferendis tenetur harum beatae, reiciendis nulla ad dicta voluptatum iure adipisci neque corporis fugiat ex! Tempore pariatur voluptatibus doloremque minima id beatae eaque, repellendus nobis velit placeat dicta animi neque error reprehenderit officia obcaecati, quos nesciunt ipsam repellat?"
+              },
+              {
+                "image": "https://i.ibb.co/KNzCYpK/potrait-adib2.png",
+                "background_image": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
+                "designation": "Jr Programmer",
+                "employee_name": "Md. Adib Arman Shuvro",
+                "employee_details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum voluptas ullam laboriosam eveniet fugit fugiat illum incidunt, repellendus quas sequi soluta ea? Sit consequuntur facere veritatis illo pariatur, iure adipisci optio, veniam accusantium, quisquam sapiente inventore ducimus cupiditate atque est ipsum deserunt vero ipsam autem. Odio accusamus illo voluptatum ad debitis sed rem voluptates cum quae eius nam exercitationem, consequatur ipsam error. Perferendis tenetur harum beatae, reiciendis nulla ad dicta voluptatum iure adipisci neque corporis fugiat ex! Tempore pariatur voluptatibus doloremque minima id beatae eaque, repellendus nobis velit placeat dicta animi neque error reprehenderit officia obcaecati, quos nesciunt ipsam repellat?"
+              },
+              {
+                "image": "https://i.ibb.co/KNzCYpK/potrait-adib2.png",
+                "background_image": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
+                "designation": "Jr Programmer",
+                "employee_name": "Md. Adib Arman Shuvro",
+                "employee_details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum voluptas ullam laboriosam eveniet fugit fugiat illum incidunt, repellendus quas sequi soluta ea? Sit consequuntur facere veritatis illo pariatur, iure adipisci optio, veniam accusantium, quisquam sapiente inventore ducimus cupiditate atque est ipsum deserunt vero ipsam autem. Odio accusamus illo voluptatum ad debitis sed rem voluptates cum quae eius nam exercitationem, consequatur ipsam error. Perferendis tenetur harum beatae, reiciendis nulla ad dicta voluptatum iure adipisci neque corporis fugiat ex! Tempore pariatur voluptatibus doloremque minima id beatae eaque, repellendus nobis velit placeat dicta animi neque error reprehenderit officia obcaecati, quos nesciunt ipsam repellat?"
+              },
+              {
+                "image": "https://i.ibb.co/KNzCYpK/potrait-adib2.png",
+                "background_image": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
+                "designation": "Jr Programmer",
+                "employee_name": "Md. Adib Arman Shuvro",
+                "employee_details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum voluptas ullam laboriosam eveniet fugit fugiat illum incidunt, repellendus quas sequi soluta ea? Sit consequuntur facere veritatis illo pariatur, iure adipisci optio, veniam accusantium, quisquam sapiente inventore ducimus cupiditate atque est ipsum deserunt vero ipsam autem. Odio accusamus illo voluptatum ad debitis sed rem voluptates cum quae eius nam exercitationem, consequatur ipsam error. Perferendis tenetur harum beatae, reiciendis nulla ad dicta voluptatum iure adipisci neque corporis fugiat ex! Tempore pariatur voluptatibus doloremque minima id beatae eaque, repellendus nobis velit placeat dicta animi neque error reprehenderit officia obcaecati, quos nesciunt ipsam repellat?"
+              },
+              {
+                "image": "https://i.ibb.co/KNzCYpK/potrait-adib2.png",
+                "background_image": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
+                "designation": "Jr Programmer",
+                "employee_name": "Md. Adib Arman Shuvro",
+                "employee_details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum voluptas ullam laboriosam eveniet fugit fugiat illum incidunt, repellendus quas sequi soluta ea? Sit consequuntur facere veritatis illo pariatur, iure adipisci optio, veniam accusantium, quisquam sapiente inventore ducimus cupiditate atque est ipsum deserunt vero ipsam autem. Odio accusamus illo voluptatum ad debitis sed rem voluptates cum quae eius nam exercitationem, consequatur ipsam error. Perferendis tenetur harum beatae, reiciendis nulla ad dicta voluptatum iure adipisci neque corporis fugiat ex! Tempore pariatur voluptatibus doloremque minima id beatae eaque, repellendus nobis velit placeat dicta animi neque error reprehenderit officia obcaecati, quos nesciunt ipsam repellat?"
+              },
+              {
+                "image": "https://i.ibb.co/KNzCYpK/potrait-adib2.png",
+                "background_image": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
+                "designation": "Jr Programmer",
+                "employee_name": "Md. Adib Arman Shuvro",
+                "employee_details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum voluptas ullam laboriosam eveniet fugit fugiat illum incidunt, repellendus quas sequi soluta ea? Sit consequuntur facere veritatis illo pariatur, iure adipisci optio, veniam accusantium, quisquam sapiente inventore ducimus cupiditate atque est ipsum deserunt vero ipsam autem. Odio accusamus illo voluptatum ad debitis sed rem voluptates cum quae eius nam exercitationem, consequatur ipsam error. Perferendis tenetur harum beatae, reiciendis nulla ad dicta voluptatum iure adipisci neque corporis fugiat ex! Tempore pariatur voluptatibus doloremque minima id beatae eaque, repellendus nobis velit placeat dicta animi neque error reprehenderit officia obcaecati, quos nesciunt ipsam repellat?"
+              },
+              {
+                "image": "https://i.ibb.co/KNzCYpK/potrait-adib2.png",
+                "background_image": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
+                "designation": "Jr Programmer",
+                "employee_name": "Md. Adib Arman Shuvro",
+                "employee_details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum voluptas ullam laboriosam eveniet fugit fugiat illum incidunt, repellendus quas sequi soluta ea? Sit consequuntur facere veritatis illo pariatur, iure adipisci optio, veniam accusantium, quisquam sapiente inventore ducimus cupiditate atque est ipsum deserunt vero ipsam autem. Odio accusamus illo voluptatum ad debitis sed rem voluptates cum quae eius nam exercitationem, consequatur ipsam error. Perferendis tenetur harum beatae, reiciendis nulla ad dicta voluptatum iure adipisci neque corporis fugiat ex! Tempore pariatur voluptatibus doloremque minima id beatae eaque, repellendus nobis velit placeat dicta animi neque error reprehenderit officia obcaecati, quos nesciunt ipsam repellat?"
+              },
+              {
+                "image": "https://i.ibb.co/KNzCYpK/potrait-adib2.png",
+                "background_image": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
+                "designation": "Jr Programmer",
+                "employee_name": "Md. Adib Arman Shuvro",
+                "employee_details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum voluptas ullam laboriosam eveniet fugit fugiat illum incidunt, repellendus quas sequi soluta ea? Sit consequuntur facere veritatis illo pariatur, iure adipisci optio, veniam accusantium, quisquam sapiente inventore ducimus cupiditate atque est ipsum deserunt vero ipsam autem. Odio accusamus illo voluptatum ad debitis sed rem voluptates cum quae eius nam exercitationem, consequatur ipsam error. Perferendis tenetur harum beatae, reiciendis nulla ad dicta voluptatum iure adipisci neque corporis fugiat ex! Tempore pariatur voluptatibus doloremque minima id beatae eaque, repellendus nobis velit placeat dicta animi neque error reprehenderit officia obcaecati, quos nesciunt ipsam repellat?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
